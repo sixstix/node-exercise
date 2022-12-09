@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    margin: 1rem auto;
+    max-width: 600px;
+    padding: 2rem;
+    width: 100%;
+}
